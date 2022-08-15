@@ -1,0 +1,4 @@
+enum TypeState {
+  Automatic,
+  Manual
+}
